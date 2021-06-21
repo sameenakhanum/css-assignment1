@@ -76,6 +76,9 @@ button{
 
 @media (min-width:1024px) {
 
+.container1{
+    width: 70%;
+    }
 .container1 h1{
   font-size: 40px;
 }
@@ -87,7 +90,7 @@ button{
 }
 
 .container2{
-   width: 50%;
+   width: 35%;
    float: left;
 }
 
@@ -101,7 +104,7 @@ button{
     font-size: 20px;
 }
 .container3{
-    width: 50%;
+    width: 35%;
     float: right;
 }
 .container3 h2{
