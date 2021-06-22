@@ -132,24 +132,24 @@ button{
     height: 40vh;
     }
 .container1 h1{
-  font-size: 45px;
-  padding: 30px;
+  font-size: 40px;
+  padding: 15px;
 }
 .container1 h3{
     font-size: 30px;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 .container1 p{
-    font-size: 25px;
-    padding: 10px 0 0 30px;
-    line-height: 40px;
+    font-size: 18px;
+    padding: 0 580px 0 20px;
+    line-height: 25px;
 }
 
 .container2{
    width: 50%;
    height: 60vh;
    float: left;
-   padding: 70px;
+   padding: 50px;
 }
 
 .container2 h3{
@@ -157,26 +157,27 @@ button{
     padding: 25px 0 20px 0;
 }
 .container2 p{
-   font-size: 25px;
+   font-size: 18px;
 }
 button{
     font-size: 20px;
     margin-top: 50px;
-    height: 70px;
-    width: 350px;
+    height: 50px;
+    width: 300px;
 }
 .container3{
     width: 50%;
     height: 60vh;
     float: right;
-    padding: 70px;
+    padding: 50px;
 }
 .container3 h2{
  font-size: 30px;
 }
 .container3 p{
-    font-size: 25px;
+    font-size: 18px;
     line-height: 40px;
+    padding-right: 250px;
 }
 
 }
