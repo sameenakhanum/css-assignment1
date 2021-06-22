@@ -75,7 +75,7 @@ button{
 @media (max-width:767px) {
     
 .container1{
-    height: 45vh;
+    height: 250px;
 }
 .container1 h1{
     font-size: 22px;
@@ -88,7 +88,7 @@ button{
     line-height: 22px;
 }
 .container2{
-    height: 55vh;
+    height: 250px;
 }
 .container2 h2{
     font-size: 20px;
